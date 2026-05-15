@@ -1,6 +1,6 @@
 Programa: Hola Mundo Interactivo
 Descripcion: Programa que saluda al usuario y muestra un menu de opciones
-Autor: Sebastian
+Autor: Sebastian Buitrago
 fecha: 2026-05-14
 
 
